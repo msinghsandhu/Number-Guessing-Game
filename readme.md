@@ -37,7 +37,7 @@ cd number-guessing-game
 
 ## Run the script:
 
-python number_guessing_game.py
+python main.py
 
 
 ## 📝 Code Explanation
